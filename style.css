@@ -139,6 +139,20 @@
     height: 50px;
 }
 
+.input-field-icon {
+    display: flex;
+    align-items: center;
+    width: 590px;
+    height: 50px;
+}
+
+.icon-calender {
+    position: relative;
+    right: 30px;
+    color: #909090;
+}
+
+
 .input {
     width: 100%;
     padding-left: 30px;
@@ -205,6 +219,10 @@
 
     .input-field {
         width: 80%;
+    }
+
+    .input-field-icon {
+        width: 90%;
     }
 
     .button-container {
