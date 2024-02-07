@@ -1,0 +1,181 @@
+/* Universal */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* My Section Start */
+.my-section {
+    background-color: #e2e2e2;
+
+}
+
+.container {
+
+    
+    padding-top: 15px;
+    padding-left: 25px;
+    padding-bottom: 55px;
+    opacity: 0.8;
+}
+
+.container-title {
+    color: #9e9e9e;
+    font-size: 32px;
+
+}
+
+.container-sub-title {
+    color: #0D0D0D;
+    font-weight: 700;
+    font: bold
+}
+
+/* Sub Container */
+.sub-container {
+    margin-top: 30px;
+}
+
+.title {
+    color: #000000;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.sub-container p {
+    color: #000000;
+}
+
+.description {
+    margin-bottom: 20px;
+}
+.service-container p{
+    font-size: 20px;
+    
+}
+.service-container{
+    margin-top: 30px;
+    margin-right: 200px;
+    margin-left: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+.service-active{
+    color: #000000;
+    font-weight: 700;
+    font: bold;
+}
+.service-default{
+    color: #909090;
+}
+
+/* Image Container  */
+.image-container img {
+    width: 100%;
+
+}
+
+/* Main Section Start */
+.main-container{
+
+}
+.main-section{
+    
+    padding-left: 25px;
+    margin-top: 40px;
+    
+}
+.main-sub-section{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+
+}
+.digit-container{
+    display: flex;
+    align-items: center;
+    background-color: #000000;
+    padding: 6px;
+    border-radius: 50%;
+}
+
+.digit{
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+    
+}
+
+.main-sub-title{
+    color: #000000;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.main-sub-description{
+    margin-left: 50px;
+}
+
+
+/* Contact Section */
+.contact-container{
+    margin-top: 60px;
+    margin-left: 25px;
+}
+.contact-title{
+    margin-top: 25px;
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+.input-field{
+    width: 550px;
+    height: 50px;
+}
+.input{
+    width: 100%;
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 20px;
+    border-radius: 8px;
+    border: none;
+}
+
+.check-list-container{
+    margin-top: 35px;
+    margin-left: 25px;
+}
+
+.hero{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 30px;
+}
+
+.hero-icon{
+    width: 25px;
+    height: 25px;
+    
+}
+.color-text{
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    
+}
+
+.button-container{
+    margin-top: 40px;
+    text-align: center;
+}
+
+.button{
+    font-size: 20px;
+    color: #242424;
+    background-color: #F3DB39;
+    border: none;
+    padding: 20px 85px;
+    margin-bottom: 50px;
+    border-radius: 8px;
+}
